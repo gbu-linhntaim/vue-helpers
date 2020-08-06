@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports["default"]=void 0;var _default={range:function range(start,end){var step=arguments.length>2&&arguments[2]!==undefined?arguments[2]:1;var r=[];if(start<=end){if(step<0)step=-step;for(var i=start;i<=end;i+=step){r.push(i)}}else{if(step<0)step=-step;for(var _i=start;_i>=end;_i-=step){r.push(_i)}}return r}};exports["default"]=_default;
+//# sourceMappingURL=array.js.map

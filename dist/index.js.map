@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":[],"mappings":"4KAAA,sD","sourcesContent":["export {default as array} from './array'"],"file":"index.js"}
