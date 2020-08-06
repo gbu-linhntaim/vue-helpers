@@ -5,7 +5,7 @@
 [![Coveralls github](https://img.shields.io/coveralls/github/gbu-linhntaim/vue-helpers?style=flat-square)](https://coveralls.io/github/gbu-linhntaim/vue-helpers)
 [![NPM](https://img.shields.io/npm/l/@dsquare-gbu/vue-helpers?style=flat-square)](http://git-gbu.japaneast.cloudapp.azure.com/base/vue-helpers/blob/master/LICENSE)
 
-To give some helps fpr Vue application.
+To give some helps for Vue application.
 
 ## Install
 

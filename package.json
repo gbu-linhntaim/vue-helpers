@@ -1,7 +1,7 @@
 {
     "name": "@dsquare-gbu/vue-helpers",
     "version": "0.0.2",
-    "description": "To give some helps fpr Vue application",
+    "description": "To give some helps for Vue application",
     "main": "dist/index.js",
     "scripts": {
         "build": "babel src --out-dir ./dist --delete-dir-on-start --minified --source-maps",
